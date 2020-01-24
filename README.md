@@ -88,5 +88,4 @@ class BotVoiceRecognitionIntentHandler(private val activity: BotActivity):
 
         return 0
     }
-
 }
