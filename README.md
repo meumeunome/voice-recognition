@@ -3,7 +3,7 @@ Voice Recognition Android Package, ready to use
 
 ## Usage
 ```
-val voiceRecognition: VoiceRecognition = VoiceRecognition(this)
+val voiceRecognition: VoiceRecognition = VoiceRecognition(this@YourActivity)
 ```
 
 ### OnResultListener
